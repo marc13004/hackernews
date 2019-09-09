@@ -1,6 +1,21 @@
 # hackernews
 cli tool for hackernews
 
+Download the Project
+
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/file.PNG)
+
+From Node command line tool Install the necessary NPM modules:
+
+  1. npm install commander
+  2. npm install axios
+  3. npm install cheerio
+  
+These installation should override the Package.json file from the project.
+You can review the package.json from here if necessary
+  
+Introduction:
+
 Build with the npm modules Cheerio for web scraping and commander for cli tool building for node.js
 
 The program scrap the web for every top <td> elements and then go through all the structure to find every specific data needs
