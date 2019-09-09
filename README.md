@@ -13,6 +13,12 @@ From Node command line tool Install the necessary NPM modules:
   
 These installation should override the Package.json file from the project.
 You can review the package.json from here if necessary
+
+From the root file of the project using a command line tool, you can enter the following command:
+
+      node ./index.js --posts 10
+      
+  
   
 Introduction:
 
@@ -25,7 +31,22 @@ The result is send to an asynchronous function who will build the necessary Json
 
 With Commander I have build a command to print n integer number of Json from the new Json array I have build.
 
-Here is the structure of the folder:
+Scraping with Cheerio and axios:
+
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/scraping.PNG)
+
+Building The Json from the Objects collected at Hackernews https://news.ycombinator.com/ :
+
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/forloop.PNG)
+
+Command Line Building Function:
+
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/commandFunc.PNG)
+
+
+
+
+
 
 
 
