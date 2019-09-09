@@ -17,8 +17,9 @@ You can review the package.json from here if necessary
 From the root file of the project using a command line tool, you can enter the following command:
 
       node ./index.js --posts 10
-      
-  
+ 
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/command.PNG)
+
   
 Introduction:
 
