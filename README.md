@@ -16,7 +16,8 @@ You can review the package.json from here if necessary
 
 From the root file of the project using a command line tool, you can enter the following command:
 
-      node ./index.js --posts 10
+      node ./index.js --posts n
+ n is < or egal to 30 as the website is showing the first 30 comments only
  
 ![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/command.PNG)
 
