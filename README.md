@@ -44,6 +44,10 @@ Command Line Building Function:
 
 ![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/commandFunc.PNG)
 
+Object scraped from the website:
+
+![Project structure](https://github.com/marc13004/hackernews/blob/master/Pics/object.PNG)
+
 
 
 
